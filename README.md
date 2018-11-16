@@ -1,2 +1,2 @@
 # fighting-foos
-Laravel sadnbox
+Laravel sandbox
